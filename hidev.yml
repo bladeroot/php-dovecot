@@ -1,0 +1,8 @@
+package:
+    type:           yii2-extension
+    name:           php-dovecot
+    title:          PHP HMAC-MD5 Generator for Dovecot Server
+    keywords:       hmac-md5, dovecot
+
+log:
+    level: info
